@@ -101,6 +101,11 @@ namespace CSharp_Lab
         {
             Console.WriteLine("Hello {0}", msg);
         }
+
+        private static void NewMethod(string msg)
+        {
+            Console.WriteLine("NewMethod {0}", msg);
+        }
     }
 
     // https://www.youtube.com/watch?v=s0tkKZoMN1Y
