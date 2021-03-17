@@ -1,0 +1,52 @@
+
+KSampleWebApp.RouteConfig.RegisterRoutes(System.Web.Routing.RouteCollection)\
+RC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\RouteConfig.cs ()"0*í
+0\
+RC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\RouteConfig.cs (.ÍÊ
+\
+RC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\RouteConfig.cs (47
+%01Microsoft.AspNet.FriendlyUrls.FriendlyUrlSettings"1Microsoft.AspNet.FriendlyUrls.FriendlyUrlSettingsñ
+î
+\
+RC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\RouteConfig.cs (2
+
+%1void"GMicrosoft.AspNet.FriendlyUrls.FriendlyUrlSettings.FriendlyUrlSettings()*9
+7
+%01Microsoft.AspNet.FriendlyUrls.FriendlyUrlSettingsá
+Þ
+\
+RC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\RouteConfig.cs (4=
+settings1Microsoft.AspNet.FriendlyUrls.FriendlyUrlSettings"__id*9
+7
+%01Microsoft.AspNet.FriendlyUrls.FriendlyUrlSettingst
+r
+\
+RC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\RouteConfig.cs( (>
+%2"__id*
+""¤
+¡
+\
+RC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\RouteConfig.cs (>0
+%3*Microsoft.AspNet.FriendlyUrls.RedirectMode"FMicrosoft.AspNet.FriendlyUrls.FriendlyUrlSettings.AutoRedirectMode.set*?
+=
+settings1Microsoft.AspNet.FriendlyUrls.FriendlyUrlSettings*
+
+%2¿
+¼
+\
+RC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\RouteConfig.cs (/
+
+%4void"¡Microsoft.AspNet.FriendlyUrls.RouteCollectionExtensions.EnableFriendlyUrls(System.Web.Routing.RouteCollection, Microsoft.AspNet.FriendlyUrls.FriendlyUrlSettings)*;"9
+7Microsoft.AspNet.FriendlyUrls.RouteCollectionExtensions*.
+,
+routes"System.Web.Routing.RouteCollection*?
+=
+settings1Microsoft.AspNet.FriendlyUrls.FriendlyUrlSettings*
+1*Ö
+1\
+RC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\RouteConfig.cs	 (	"s
+\
+RC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\RouteConfig.cs (	
+implicit return:,
+routes"System.Web.Routing.RouteCollectionB"
+SampleWebApp.RouteConfig

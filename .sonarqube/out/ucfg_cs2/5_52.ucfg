@@ -1,0 +1,34 @@
+
+YVirtualLab.Employee.lnkDelete_Command(object, System.Web.UI.WebControls.CommandEventArgs)O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csk k(("0*É
+0O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csm m(=¬
+©
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csm m(
+%0System.Web.HttpResponse"System.Web.UI.Page.Response.get*
+System.Web.UI.Page‹
+ˆ
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csm m(=
+%1"__concat*
+lnkDelete_Command Event*
+<br>°
+­
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csm m(>
+
+%2void"%System.Web.HttpResponse.Write(string)*
+
+%0System.Web.HttpResponse*
+
+%1*
+1*¼
+1O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csn	 n(	"f
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csn n(	
+implicit return:
+senderobject:/
+e*System.Web.UI.WebControls.CommandEventArgsB
+VirtualLab.Employee

@@ -1,0 +1,11 @@
+¿
+AspNet_Lab.PageLevelEventsSystem.Web.UI.PageSystem.Web.UI.TemplateControlSystem.Web.UI.Controlobjectk
+&Page_PreInit(object, System.EventArgs)AAspNet_Lab.PageLevelEvents.Page_PreInit(object, System.EventArgs)e
+#Page_Init(object, System.EventArgs)>AspNet_Lab.PageLevelEvents.Page_Init(object, System.EventArgs){
+.Page_PreInitComplete(object, System.EventArgs)IAspNet_Lab.PageLevelEvents.Page_PreInitComplete(object, System.EventArgs)k
+&Page_PreLoad(object, System.EventArgs)AAspNet_Lab.PageLevelEvents.Page_PreLoad(object, System.EventArgs)u
++Page_LoadComplete(object, System.EventArgs)FAspNet_Lab.PageLevelEvents.Page_LoadComplete(object, System.EventArgs)o
+(Page_PreRender(object, System.EventArgs)CAspNet_Lab.PageLevelEvents.Page_PreRender(object, System.EventArgs)
+0Page_PreRendercomplete(object, System.EventArgs)KAspNet_Lab.PageLevelEvents.Page_PreRendercomplete(object, System.EventArgs)e
+#Page_Load(object, System.EventArgs)>AspNet_Lab.PageLevelEvents.Page_Load(object, System.EventArgs)A
+PageLevelEvents(),AspNet_Lab.PageLevelEvents.PageLevelEvents()

@@ -1,0 +1,54 @@
+
+rCSharp_Lab.Employee.PromoteEmployee(System.Collections.Generic.List<CSharp_Lab.Employee>, CSharp_Lab.IsPromotable)I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs (*"0*U
+0K
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csÅ% Å(.*
+1*X
+1K
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csâ	 â(	*
+2
+3*ß
+2K
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csÉ É(+Ã
+…
+K
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csÉ É(,
+
+%0bool"3CSharp_Lab.IsPromotable.Invoke(CSharp_Lab.Employee)*
+CSharp_Lab.IsPromotable*
+
+empCSharp_Lab.Employee*
+4
+1*§
+4K
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csÖ Ö(?ù
+ö
+K
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csÖ& Ö(1
+%1string"CSharp_Lab.Employee.EmpName.get*
+
+empCSharp_Lab.Employeeá
+Ñ
+K
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csÖ& Ö(?
+%2string"__concat*
+
+%1string*
+	 promoted¢
+ü
+K
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csÖ Ö(@
+
+%3void" System.Console.WriteLine(string)*"
+System.Console*
+
+%2string*
+1*¥
+3K
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csâ	 â(	"b
+K
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csâ â(	
+implicit return:/
+	employees"System.Collections.Generic.List<T>:.
+isEligibleToPromoteCSharp_Lab.IsPromotableB"
+CSharp_Lab.Employee

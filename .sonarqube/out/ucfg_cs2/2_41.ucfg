@@ -1,0 +1,34 @@
+
+]AspNet_Lab.EmployeeForm.lnkDelete_Command(object, System.Web.UI.WebControls.CommandEventArgs)S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.csJ J(("0*Ÿ
+0S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.csL L(=∞
+≠
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.csL L(
+%0System.Web.HttpResponse"System.Web.UI.Page.Response.get*
+System.Web.UI.Pageè
+å
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.csL L(=
+%1"__concat*
+lnkDelete_Command Event*
+<br>¥
+±
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.csL L(>
+
+%2void"%System.Web.HttpResponse.Write(string)*
+
+%0System.Web.HttpResponse*
+
+%1*
+1*ƒ
+1S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.csM	 M(	"j
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.csM M(	
+implicit return:
+senderobject:/
+e*System.Web.UI.WebControls.CommandEventArgsB
+AspNet_Lab.EmployeeForm

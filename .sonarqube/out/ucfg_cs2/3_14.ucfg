@@ -1,0 +1,327 @@
+
+!CSharp_Lab.Program.Main(string[])I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs ("0*∞D
+0I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs 1(úô
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs* ((
+%0"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>±
+Æ
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs. (<
+
+%1void")System.Collections.Generic.List<T>.List()**
+(
+%0"System.Collections.Generic.List<T>}{
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs (V
+%2CSharp_Lab.Employee"CSharp_Lab.Employeeó
+î
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs (
+
+%3void"CSharp_Lab.Employee.Employee()*
+
+%2CSharp_Lab.Employeeõ
+ò
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs (*	
+%4int"CSharp_Lab.Employee.EmpId.set*
+
+%2CSharp_Lab.Employee*2f£
+†
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs, (;
+%5string"CSharp_Lab.Employee.EmpName.set*
+
+%2CSharp_Lab.Employee*
+Sueù
+ö
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs< (G	
+%6int"CSharp_Lab.Employee.Salary.set*
+
+%2CSharp_Lab.Employee*2à'†
+ù
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csH (T	
+%7int""CSharp_Lab.Employee.Experience.set*
+
+%2CSharp_Lab.Employee*2}{
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs (T
+%8CSharp_Lab.Employee"CSharp_Lab.Employeeó
+î
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs (
+
+%9void"CSharp_Lab.Employee.Employee()*
+
+%8CSharp_Lab.Employeeù
+ö
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs ()
+
+%10int"CSharp_Lab.Employee.EmpId.set*
+
+%8CSharp_Lab.Employee*2 •
+¢
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs+ (;
+%11string"CSharp_Lab.Employee.EmpName.set*
+
+%8CSharp_Lab.Employee*
+Johnû
+õ
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs< (F
+
+%12int"CSharp_Lab.Employee.Salary.set*
+
+%8CSharp_Lab.Employee*2ÿ°
+û
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csG (S
+
+%13int""CSharp_Lab.Employee.Experience.set*
+
+%8CSharp_Lab.Employee*2~|
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs (Q
+%14CSharp_Lab.Employee"CSharp_Lab.Employeeô
+ñ
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs (
+%15void"CSharp_Lab.Employee.Employee()*
+
+%14CSharp_Lab.Employeeû
+õ
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs ('
+
+%16int"CSharp_Lab.Employee.EmpId.set*
+
+%14CSharp_Lab.Employee*2Æ¶
+£
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs) (7
+%17string"CSharp_Lab.Employee.EmpName.set*
+
+%14CSharp_Lab.Employee*
+Jackü
+ú
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs8 (C
+
+%18int"CSharp_Lab.Employee.Salary.set*
+
+%14CSharp_Lab.Employee*2∏¢
+ü
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csD (P
+
+%19int""CSharp_Lab.Employee.Experience.set*
+
+%14CSharp_Lab.Employee*2~|
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs (Q
+%20CSharp_Lab.Employee"CSharp_Lab.Employeeô
+ñ
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs (
+%21void"CSharp_Lab.Employee.Employee()*
+
+%20CSharp_Lab.Employeeû
+õ
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs ('
+
+%22int"CSharp_Lab.Employee.EmpId.set*
+
+%20CSharp_Lab.Employee*2íß
+§
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs) (8
+%23string"CSharp_Lab.Employee.EmpName.set*
+
+%20CSharp_Lab.Employee*	
+Peterü
+ú
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs9 (C
+
+%24int"CSharp_Lab.Employee.Salary.set*
+
+%20CSharp_Lab.Employee*2º¢
+ü
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csD (P
+
+%25int""CSharp_Lab.Employee.Experience.set*
+
+%20CSharp_Lab.Employee*2~|
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs (Q
+%26CSharp_Lab.Employee"CSharp_Lab.Employeeô
+ñ
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs (
+%27void"CSharp_Lab.Employee.Employee()*
+
+%26CSharp_Lab.Employeeû
+õ
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs ('
+
+%28int"CSharp_Lab.Employee.EmpId.set*
+
+%26CSharp_Lab.Employee*2ˆß
+§
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs) (8
+%29string"CSharp_Lab.Employee.EmpName.set*
+
+%26CSharp_Lab.Employee*	
+Kellyü
+ú
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs9 (C
+
+%30int"CSharp_Lab.Employee.Salary.set*
+
+%26CSharp_Lab.Employee*2º¢
+ü
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csD (P
+
+%31int""CSharp_Lab.Employee.Experience.set*
+
+%26CSharp_Lab.Employee*2~|
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs (Q
+%32CSharp_Lab.Employee"CSharp_Lab.Employeeô
+ñ
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs (
+%33void"CSharp_Lab.Employee.Employee()*
+
+%32CSharp_Lab.Employeeû
+õ
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs ('
+
+%34int"CSharp_Lab.Employee.EmpId.set*
+
+%32CSharp_Lab.Employee*2˜ß
+§
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs) (8
+%35string"CSharp_Lab.Employee.EmpName.set*
+
+%32CSharp_Lab.Employee*	
+Peterü
+ú
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs9 (C
+
+%36int"CSharp_Lab.Employee.Salary.set*
+
+%32CSharp_Lab.Employee*2ä¢
+ü
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csD (P
+
+%37int""CSharp_Lab.Employee.Experience.set*
+
+%32CSharp_Lab.Employee*2¥
+±
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs (2
+lstEmployees"System.Collections.Generic.List<T>"__id**
+(
+%0"System.Collections.Generic.List<T>Ö
+Ç
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs   (P'
+isPromotableCSharp_Lab.IsPromotable"__id*
+""…
+∆
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs! !(@
+%38void"rCSharp_Lab.Employee.PromoteEmployee(System.Collections.Generic.List<CSharp_Lab.Employee>, CSharp_Lab.IsPromotable)*"
+CSharp_Lab.Employee*4
+2
+lstEmployees"System.Collections.Generic.List<T>*)
+'
+isPromotableCSharp_Lab.IsPromotable∏
+µ
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs# #(B
+%39void" System.Console.WriteLine(string)*"
+System.Console*%#
+!Promotion using lambda expression¶
+£
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs$ $(K
+%40void"rCSharp_Lab.Employee.PromoteEmployee(System.Collections.Generic.List<CSharp_Lab.Employee>, CSharp_Lab.IsPromotable)*"
+CSharp_Lab.Employee*4
+2
+lstEmployees"System.Collections.Generic.List<T>*
+""ˇ
+¸
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs' '(%
+%41bool"TCSharp_Lab.Program.FindMethod1(System.Collections.Generic.List<CSharp_Lab.Employee>)*"
+CSharp_Lab.Program*4
+2
+lstEmployees"System.Collections.Generic.List<T>ˇ
+¸
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs( ((%
+%42void"TCSharp_Lab.Program.FindMethod2(System.Collections.Generic.List<CSharp_Lab.Employee>)*"
+CSharp_Lab.Program*4
+2
+lstEmployees"System.Collections.Generic.List<T>ˇ
+¸
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs) )(%
+%43void"TCSharp_Lab.Program.FindMethod3(System.Collections.Generic.List<CSharp_Lab.Employee>)*"
+CSharp_Lab.Program*4
+2
+lstEmployees"System.Collections.Generic.List<T>°
+û
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs+ +(
+%44void" CSharp_Lab.Program.Greet(string)*"
+CSharp_Lab.Program*
+
+Subhas|z
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs-% -(=
+%45CSharp_Lab.Program"CSharp_Lab.Programü
+ú
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs- -(=,
+greetdel CSharp_Lab.Program.GreetDelegate"__id*
+
+%45CSharp_Lab.Program¬
+ø
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs. .("
+%46void"/CSharp_Lab.Program.GreetDelegate.Invoke(string)*$"
+ CSharp_Lab.Program.GreetDelegate*
+
+Spider Manå
+â
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs1 1(
+%47string"System.Console.ReadLine()*"
+System.Console*
+1*∞
+1I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs2	 2(	"`
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs2 2(	
+implicit return:
+argsstring[]B"
+CSharp_Lab.Program

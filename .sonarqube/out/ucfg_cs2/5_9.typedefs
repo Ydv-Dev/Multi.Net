@@ -1,0 +1,10 @@
+ø
+VirtualLab.ViewSwitcherSystem.Web.UI.UserControlSystem.Web.UI.TemplateControlSystem.Web.UI.Controlobjectb
+#Page_Load(object, System.EventArgs);VirtualLab.ViewSwitcher.Page_Load(object, System.EventArgs)8
+ViewSwitcher()&VirtualLab.ViewSwitcher.ViewSwitcher():
+CurrentView.get'VirtualLab.ViewSwitcher.CurrentView.get:
+CurrentView.set'VirtualLab.ViewSwitcher.CurrentView.set>
+AlternateView.get)VirtualLab.ViewSwitcher.AlternateView.get>
+AlternateView.set)VirtualLab.ViewSwitcher.AlternateView.set6
+SwitchUrl.get%VirtualLab.ViewSwitcher.SwitchUrl.get6
+SwitchUrl.set%VirtualLab.ViewSwitcher.SwitchUrl.set

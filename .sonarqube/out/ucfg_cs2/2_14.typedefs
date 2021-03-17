@@ -1,0 +1,10 @@
+ø
+AspNet_Lab.ViewSwitcherSystem.Web.UI.UserControlSystem.Web.UI.TemplateControlSystem.Web.UI.Controlobjectb
+#Page_Load(object, System.EventArgs);AspNet_Lab.ViewSwitcher.Page_Load(object, System.EventArgs)8
+ViewSwitcher()&AspNet_Lab.ViewSwitcher.ViewSwitcher():
+CurrentView.get'AspNet_Lab.ViewSwitcher.CurrentView.get:
+CurrentView.set'AspNet_Lab.ViewSwitcher.CurrentView.set>
+AlternateView.get)AspNet_Lab.ViewSwitcher.AlternateView.get>
+AlternateView.set)AspNet_Lab.ViewSwitcher.AlternateView.set6
+SwitchUrl.get%AspNet_Lab.ViewSwitcher.SwitchUrl.get6
+SwitchUrl.set%AspNet_Lab.ViewSwitcher.SwitchUrl.set

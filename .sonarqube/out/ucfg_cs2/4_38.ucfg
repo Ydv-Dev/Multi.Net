@@ -1,0 +1,239 @@
+
+=SampleWebApp.ViewSwitcher.Page_Load(object, System.EventArgs)X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs ( "0*Ÿ	
+0X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs ("ÆÃ
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs[ (b
+%0System.Web.HttpContext"!System.Web.UI.Control.Context.get*
+System.Web.UI.Control2Context.get¡ž
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.csD (c#
+%1System.Web.HttpContextWrapper"System.Web.HttpContextWrapperú
+÷
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.csH (Z
+
+%2void"HSystem.Web.HttpContextWrapper.HttpContextWrapper(System.Web.HttpContext)*%
+#
+%1System.Web.HttpContextWrapper*
+
+%0System.Web.HttpContextÇ
+Ä
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs (d
+
+%3bool"lMicrosoft.AspNet.FriendlyUrls.Resolvers.WebFormsFriendlyUrlResolver.IsMobileView(System.Web.HttpContextBase)*G"E
+CMicrosoft.AspNet.FriendlyUrls.Resolvers.WebFormsFriendlyUrlResolver*%
+#
+%1System.Web.HttpContextWrapperƒ
+€
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs (d
+isMobilebool"__id*
+
+
+%3bool*
+1
+2*Ò
+1X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs% (-t
+r
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs% (-
+%5"__id*
+
+Mobilex
+v
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs% (-
+%4string"__id*
+
+%5*
+3*Ó
+2X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs0 (9u
+s
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs0 (9
+%6"__id*	
+Desktopx
+v
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs0 (9
+%4string"__id*
+
+%6*
+3*­
+3X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs ($Å
+Â
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs (9
+%7string")SampleWebApp.ViewSwitcher.CurrentView.set*
+SampleWebApp.ViewSwitcher*
+
+%4string*
+4
+5*Ó
+4X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs' (0u
+s
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs' (0
+%9"__id*	
+Desktopx
+v
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs' (0
+%8string"__id*
+
+%9*
+6*Ô
+5X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs3 (;u
+s
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs3 (;
+%10"__id*
+
+Mobiley
+w
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs3 (;
+%8string"__id*
+
+%10*
+6*¦
+
+6X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs  ('È
+Å
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs (;
+%11string"+SampleWebApp.ViewSwitcher.AlternateView.set*
+SampleWebApp.ViewSwitcher*
+
+%8string¦
+£
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs (F
+switchViewRouteNamestring"__id*" 
+AspNet.FriendlyUrls.SwitchViewÕ
+Ò
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs" (3)
+%12"System.Web.Routing.RouteCollection"(System.Web.Routing.RouteTable.Routes.get*!"
+System.Web.Routing.RouteTableÜ
+Ù
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs" (H#
+%13System.Web.Routing.RouteBase"
+__arrayGet*+
+)
+%12"System.Web.Routing.RouteCollection*
+
+switchViewRouteNamestring»
+¸
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs (H/
+switchViewRouteSystem.Web.Routing.RouteBase"__id*%
+#
+%13System.Web.Routing.RouteBaseÕ
+Ò
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs   ('
+%14bool""object.operator ==(object, object)*
+"
+object*1
+/
+switchViewRouteSystem.Web.Routing.RouteBase*
+""*
+7
+8*…
+7X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs# #($Á¾
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs# #($
+%15bool"!System.Web.UI.Control.Visible.set*
+SampleWebApp.ViewSwitcher*
+""2Visible.set"b
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs$ $(
+""*Ë
+8X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs& ((¸
+µ
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs&D &(Q
+%16string"+SampleWebApp.ViewSwitcher.AlternateView.get*
+SampleWebApp.ViewSwitcherã
+à
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs& &(w
+%17string"1System.Web.UI.Control.GetRouteUrl(string, object)*
+System.Web.UI.Control*
+
+switchViewRouteNamestring*
+""ƒ
+€
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs& &(w
+urlstring"__id*
+
+%17stringÂ
+¿
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs'9 '(@
+%18System.Web.HttpRequest"%System.Web.UI.UserControl.Request.get*
+System.Web.UI.UserControl°
+­
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs'9 '(G
+%19string"!System.Web.HttpRequest.RawUrl.get*
+
+%18System.Web.HttpRequestÃ
+À
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs'# '(H
+%20string"(System.Web.HttpUtility.UrlEncode(string)*"
+System.Web.HttpUtility*
+
+%19string˜
+•
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs' '(H
+%21string"__concat*
+?ReturnUrl=*
+
+%20string˜
+•
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs' '(H
+%22string"__concat*
+
+urlstring*
+
+%21stringƒ
+€
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs' '(H
+urlstring"__id*
+
+%22stringÅ
+Â
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs( ((
+%23string"'SampleWebApp.ViewSwitcher.SwitchUrl.set*
+SampleWebApp.ViewSwitcher*
+
+urlstring*
+9*Î
+9X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs)	 )(	"o
+X
+NC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\ViewSwitcher.ascx.cs) )(	
+implicit return:
+senderobject:
+eSystem.EventArgsB
+SampleWebApp.ViewSwitcher

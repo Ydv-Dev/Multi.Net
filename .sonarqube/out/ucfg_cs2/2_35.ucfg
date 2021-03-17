@@ -1,0 +1,40 @@
+
+=AspNet_Lab.Global.Application_Start(object, System.EventArgs)M
+CC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\Global.asax.cs ("0*ù
+0M
+CC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\Global.asax.cs (<É
+Æ
+M
+CC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\Global.asax.cs' (8(
+%0"System.Web.Routing.RouteCollection"(System.Web.Routing.RouteTable.Routes.get*!"
+System.Web.Routing.RouteTableñ
+î
+M
+CC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\Global.asax.cs (9
+
+%1void"IAspNet_Lab.RouteConfig.RegisterRoutes(System.Web.Routing.RouteCollection)*"
+AspNet_Lab.RouteConfig**
+(
+%0"System.Web.Routing.RouteCollectionÜ
+Ù
+M
+CC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\Global.asax.cs) (<.
+%2(System.Web.Optimization.BundleCollection"/System.Web.Optimization.BundleTable.Bundles.get*'"%
+#System.Web.Optimization.BundleTable€
+ý
+M
+CC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\Global.asax.cs (=
+
+%3void"QAspNet_Lab.BundleConfig.RegisterBundles(System.Web.Optimization.BundleCollection)*"
+AspNet_Lab.BundleConfig*0
+.
+%2(System.Web.Optimization.BundleCollection*
+1*¸
+1M
+CC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\Global.asax.cs	 (	"d
+M
+CC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\Global.asax.cs (	
+implicit return:
+senderobject:
+eSystem.EventArgsB
+AspNet_Lab.Global

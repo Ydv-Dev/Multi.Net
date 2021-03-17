@@ -1,0 +1,40 @@
+
+?SampleWebApp.Global.Application_Start(object, System.EventArgs)R
+HC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\Global.asax.cs ("0*š
+0R
+HC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\Global.asax.cs (<Î
+Ë
+R
+HC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\Global.asax.cs' (8(
+%0"System.Web.Routing.RouteCollection"(System.Web.Routing.RouteTable.Routes.get*!"
+System.Web.Routing.RouteTableú
+÷
+R
+HC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\Global.asax.cs (9
+
+%1void"KSampleWebApp.RouteConfig.RegisterRoutes(System.Web.Routing.RouteCollection)*"
+SampleWebApp.RouteConfig**
+(
+%0"System.Web.Routing.RouteCollectioná
+Þ
+R
+HC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\Global.asax.cs) (<.
+%2(System.Web.Optimization.BundleCollection"/System.Web.Optimization.BundleTable.Bundles.get*'"%
+#System.Web.Optimization.BundleTable‰
+†
+R
+HC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\Global.asax.cs (=
+
+%3void"SSampleWebApp.BundleConfig.RegisterBundles(System.Web.Optimization.BundleCollection)*"
+SampleWebApp.BundleConfig*0
+.
+%2(System.Web.Optimization.BundleCollection*
+1*Â
+1R
+HC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\Global.asax.cs	 (	"i
+R
+HC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\Global.asax.cs (	
+implicit return:
+senderobject:
+eSystem.EventArgsB
+SampleWebApp.Global

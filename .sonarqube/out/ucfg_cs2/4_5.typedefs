@@ -1,0 +1,10 @@
+÷
+SampleWebApp.Employeeobject.
+
+Employee() SampleWebApp.Employee.Employee()4
+FirstName.get#SampleWebApp.Employee.FirstName.get4
+FirstName.set#SampleWebApp.Employee.FirstName.set2
+LastName.get"SampleWebApp.Employee.LastName.get2
+LastName.set"SampleWebApp.Employee.LastName.set(
+Age.getSampleWebApp.Employee.Age.get(
+Age.setSampleWebApp.Employee.Age.set

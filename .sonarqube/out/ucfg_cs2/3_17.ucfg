@@ -1,0 +1,49 @@
+
+TCSharp_Lab.Program.FindMethod3(System.Collections.Generic.List<CSharp_Lab.Employee>)I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs\ \(&"0*Û
+0I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs_ `(c‡
+›
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs_  _(b
+%0CSharp_Lab.Employee"<System.Collections.Generic.List<T>.Find(System.Predicate<T>)*/
+-
+emplist"System.Collections.Generic.List<T>*
+""í
+è
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs_ _(b
+employeeCSharp_Lab.Employee"__id*
+
+%0CSharp_Lab.Employeeõ
+ò
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs`C `(Q	
+%1int"CSharp_Lab.Employee.EmpId.get*!
+
+employeeCSharp_Lab.Employee†
+ù
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs`S `(c
+%2string"CSharp_Lab.Employee.EmpName.get*!
+
+employeeCSharp_Lab.Employee‰
+·
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs` `(d
+
+%3void"0System.Console.WriteLine(string, object, object)*"
+System.Console*%#
+! FindMethod3 Id = {0}, Name = {1}*
+	
+%1int*
+
+%2string*
+1*∞
+1I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csb	 b(	"`
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csb b(	
+implicit return:-
+emplist"System.Collections.Generic.List<T>B"
+CSharp_Lab.Program

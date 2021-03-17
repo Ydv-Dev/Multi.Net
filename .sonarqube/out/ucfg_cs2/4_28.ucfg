@@ -1,0 +1,101 @@
+
+SSampleWebApp.BundleConfig.RegisterBundles(System.Web.Optimization.BundleCollection)]
+SC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\BundleConfig.cs (*"0*Â
+0]
+SC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\BundleConfig.cs #(3¥±
+]
+SC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\BundleConfig.cs (@*
+%0$System.Web.Optimization.ScriptBundle"$System.Web.Optimization.ScriptBundleÒ
+Ó
+]
+SC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\BundleConfig.cs ((
+
+%1void"9System.Web.Optimization.ScriptBundle.ScriptBundle(string)*,
+*
+%0$System.Web.Optimization.ScriptBundle*
+~/bundles/WebFormsJsµ≤
+]
+SC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\BundleConfig.cs (=$
+%2System.Web.Optimization.Bundle"7System.Web.Optimization.Bundle.Include(params string[])*,
+*
+%0$System.Web.Optimization.ScriptBundle*" 
+~/Scripts/WebForms/WebForms.js*)'
+%~/Scripts/WebForms/WebUIValidation.js*'%
+#~/Scripts/WebForms/MenuStandards.js*
+~/Scripts/WebForms/Focus.js*" 
+~/Scripts/WebForms/GridView.js*%#
+!~/Scripts/WebForms/DetailsView.js*" 
+~/Scripts/WebForms/TreeView.js*" 
+~/Scripts/WebForms/WebParts.js2Include(params string[])õ
+ò
+]
+SC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\BundleConfig.cs (>
+
+%3void"LSystem.Web.Optimization.BundleCollection.Add(System.Web.Optimization.Bundle)*5
+3
+bundles(System.Web.Optimization.BundleCollection*&
+$
+%2System.Web.Optimization.Bundle¥±
+]
+SC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\BundleConfig.cs (>*
+%4$System.Web.Optimization.ScriptBundle"$System.Web.Optimization.ScriptBundleÔ
+Ï
+]
+SC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\BundleConfig.cs ((
+
+%5void"9System.Web.Optimization.ScriptBundle.ScriptBundle(string)*,
+*
+%4$System.Web.Optimization.ScriptBundle*
+~/bundles/MsAjaxJsÈÊ
+]
+SC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\BundleConfig.cs (I$
+%6System.Web.Optimization.Bundle"7System.Web.Optimization.Bundle.Include(params string[])*,
+*
+%4$System.Web.Optimization.ScriptBundle*.,
+*~/Scripts/WebForms/MsAjax/MicrosoftAjax.js*A?
+=~/Scripts/WebForms/MsAjax/MicrosoftAjaxApplicationServices.js*31
+/~/Scripts/WebForms/MsAjax/MicrosoftAjaxTimer.js*64
+2~/Scripts/WebForms/MsAjax/MicrosoftAjaxWebForms.js2Include(params string[])õ
+ò
+]
+SC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\BundleConfig.cs (J
+
+%7void"LSystem.Web.Optimization.BundleCollection.Add(System.Web.Optimization.Bundle)*5
+3
+bundles(System.Web.Optimization.BundleCollection*&
+$
+%6System.Web.Optimization.Bundle¥±
+]
+SC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\BundleConfig.cs" "(?*
+%8$System.Web.Optimization.ScriptBundle"$System.Web.Optimization.ScriptBundle
+Ì
+]
+SC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\BundleConfig.cs" "((
+
+%9void"9System.Web.Optimization.ScriptBundle.ScriptBundle(string)*,
+*
+%8$System.Web.Optimization.ScriptBundle*
+~/bundles/modernizr˝˙
+]
+SC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\BundleConfig.cs" #(4%
+%10System.Web.Optimization.Bundle"_System.Web.Optimization.Bundle.Include(string, params System.Web.Optimization.IItemTransform[])*,
+*
+%8$System.Web.Optimization.ScriptBundle*
+~/Scripts/modernizr-**
+""2@Include(string, params System.Web.Optimization.IItemTransform[])ù
+ö
+]
+SC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\BundleConfig.cs" #(5
+%11void"LSystem.Web.Optimization.BundleCollection.Add(System.Web.Optimization.Bundle)*5
+3
+bundles(System.Web.Optimization.BundleCollection*'
+%
+%10System.Web.Optimization.Bundle*
+1*ÿ
+1]
+SC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\BundleConfig.cs$	 $(	"t
+]
+SC:\workspace\Ydv-Dev\Multi.Net\SampleWebDemo\SampleWebApp\App_Start\BundleConfig.cs$ $(	
+implicit return:3
+bundles(System.Web.Optimization.BundleCollectionB"
+SampleWebApp.BundleConfig

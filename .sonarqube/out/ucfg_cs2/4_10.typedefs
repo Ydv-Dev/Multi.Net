@@ -1,0 +1,10 @@
+Š
+SampleWebApp.ViewSwitcherSystem.Web.UI.UserControlSystem.Web.UI.TemplateControlSystem.Web.UI.Controlobjectd
+#Page_Load(object, System.EventArgs)=SampleWebApp.ViewSwitcher.Page_Load(object, System.EventArgs):
+ViewSwitcher()(SampleWebApp.ViewSwitcher.ViewSwitcher()<
+CurrentView.get)SampleWebApp.ViewSwitcher.CurrentView.get<
+CurrentView.set)SampleWebApp.ViewSwitcher.CurrentView.set@
+AlternateView.get+SampleWebApp.ViewSwitcher.AlternateView.get@
+AlternateView.set+SampleWebApp.ViewSwitcher.AlternateView.set8
+SwitchUrl.get'SampleWebApp.ViewSwitcher.SwitchUrl.get8
+SwitchUrl.set'SampleWebApp.ViewSwitcher.SwitchUrl.set

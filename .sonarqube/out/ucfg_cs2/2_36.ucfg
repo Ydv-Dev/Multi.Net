@@ -1,0 +1,34 @@
+
+>AspNet_Lab.PageLevelEvents.Page_Init(object, System.EventArgs)V
+LC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\PageLevelEvents.aspx.cs ( "0*Ø
+0V
+LC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\PageLevelEvents.aspx.cs (0³
+°
+V
+LC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\PageLevelEvents.aspx.cs (
+%0System.Web.HttpResponse"System.Web.UI.Page.Response.get*
+System.Web.UI.Page…
+‚
+V
+LC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\PageLevelEvents.aspx.cs (0
+%1"__concat*
+	Page_Init*	
+<br/>·
+´
+V
+LC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\PageLevelEvents.aspx.cs (1
+
+%2void"%System.Web.HttpResponse.Write(string)*
+
+%0System.Web.HttpResponse*
+
+%1*
+1*Ê
+1V
+LC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\PageLevelEvents.aspx.cs	 (	"m
+V
+LC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\PageLevelEvents.aspx.cs (	
+implicit return:
+senderobject:
+eSystem.EventArgsB
+AspNet_Lab.PageLevelEvents

@@ -1,0 +1,4 @@
+Í
+VirtualLab.GlobalSystem.Web.HttpApplicationobjectl
++Application_Start(object, System.EventArgs)=VirtualLab.Global.Application_Start(object, System.EventArgs)&
+Global()VirtualLab.Global.Global()

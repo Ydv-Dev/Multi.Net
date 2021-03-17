@@ -1,0 +1,72 @@
+
+TCSharp_Lab.Program.FindMethod1(System.Collections.Generic.List<CSharp_Lab.Employee>)I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs9 9("0*¿
+0I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs< =(,j
+h
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs< <(
+foundbool"__id*
+""*
+1*V
+1I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csF	 F(	*
+2
+3*ï
+2I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs? ?($–
+“
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs? ?(	
+%0int"CSharp_Lab.Employee.EmpId.get*
+
+empCSharp_Lab.Employee*
+4
+5*¿
+4I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs@ @(j
+h
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.cs@ @(
+foundbool"__id*
+""*
+5*ú
+5I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csA A(j–
+“
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csAT A(]	
+%1int"CSharp_Lab.Employee.EmpId.get*
+
+empCSharp_Lab.Employee›
+˜
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csA_ A(j
+%2string"CSharp_Lab.Employee.EmpName.get*
+
+empCSharp_Lab.Employeeí
+ê
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csA A(k
+
+%3void"0System.Console.WriteLine(string, object, object)*"
+System.Console*.,
+* FindMethod1 result : Id = {0}, Name = {1}*
+	
+%1int*
+
+%2string*
+3*¬
+3I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csE E("\
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csE E(
+
+foundbool*°
+6I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csF	 F(	"`
+I
+?C:\workspace\Ydv-Dev\Multi.Net\CSharp_Lab\CSharp_Lab\Program.csF F(	
+implicit return:-
+emplist"System.Collections.Generic.List<T>B"
+CSharp_Lab.Program

@@ -1,0 +1,70 @@
+
+@AspNet_Lab.SessionState1.Button1_Click(object, System.EventArgs)T
+JC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\SessionState1.aspx.cs# #($"0*©
+0T
+JC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\SessionState1.aspx.cs% '(*ŒÀ
+T
+JC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\SessionState1.aspx.cs%# %(*.
+%0(System.Web.SessionState.HttpSessionState"System.Web.UI.Page.Session.get*
+System.Web.UI.Page2Session.get∞
+≠
+T
+JC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\SessionState1.aspx.cs%# %(3
+%1object"
+__arrayGet*0
+.
+%0(System.Web.SessionState.HttpSessionState*	
+vsNumt
+r
+T
+JC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\SessionState1.aspx.cs% %(3
+%2"__id*
+
+%1objectz
+x
+T
+JC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\SessionState1.aspx.cs% %(7
+clicksCountint"__id*
+""’
+“
+T
+JC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\SessionState1.aspx.cs& &('
+%3!System.Web.UI.WebControls.TextBox"__id*K*I
+AspNet_Lab.SessionState1"+
+txtNum!System.Web.UI.WebControls.TextBoxç
+ä
+T
+JC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\SessionState1.aspx.cs& &(0
+%4string"int.ToString()*
+
+clicksCountintÿ’
+T
+JC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\SessionState1.aspx.cs& &(0
+%5string"*System.Web.UI.WebControls.TextBox.Text.set*)
+'
+%3!System.Web.UI.WebControls.TextBox*
+
+%4string2Text.setŒÀ
+T
+JC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\SessionState1.aspx.cs' '(.
+%6(System.Web.SessionState.HttpSessionState"System.Web.UI.Page.Session.get*
+System.Web.UI.Page2Session.getæ
+ª
+T
+JC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\SessionState1.aspx.cs' '(*
+%7"
+__arraySet*0
+.
+%6(System.Web.SessionState.HttpSessionState*	
+vsNum*
+
+clicksCountint*
+1*∆
+1T
+JC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\SessionState1.aspx.cs)	 )(	"k
+T
+JC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\SessionState1.aspx.cs) )(	
+implicit return:
+senderobject:
+eSystem.EventArgsB
+AspNet_Lab.SessionState1

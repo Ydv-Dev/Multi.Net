@@ -1,0 +1,7 @@
+organization=ydv-dev
+projectKey=Multi.Net
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.18256
+dashboardUrl=https://sonarcloud.io/dashboard?id=Multi.Net
+ceTaskId=AXhBDjajfWGagXiEGMfe
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXhBDjajfWGagXiEGMfe

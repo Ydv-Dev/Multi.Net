@@ -1,0 +1,14 @@
+Ë
+CSharp_Lab.Employeeobject,
+
+Employee()CSharp_Lab.Employee.Employee()*
+	EmpId.getCSharp_Lab.Employee.EmpId.get*
+	EmpId.setCSharp_Lab.Employee.EmpId.set.
+EmpName.getCSharp_Lab.Employee.EmpName.get.
+EmpName.setCSharp_Lab.Employee.EmpName.set,
+
+Salary.getCSharp_Lab.Employee.Salary.get,
+
+Salary.setCSharp_Lab.Employee.Salary.set4
+Experience.get"CSharp_Lab.Employee.Experience.get4
+Experience.set"CSharp_Lab.Employee.Experience.set

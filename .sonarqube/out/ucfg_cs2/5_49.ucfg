@@ -1,0 +1,209 @@
+
+?VirtualLab.Employee.btnRegister_Click(object, System.EventArgs)O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csL L(("0*Ÿ
+0O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csN Q(#¨
+©
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csN N(
+%0System.Web.HttpResponse"System.Web.UI.Page.Response.get*
+System.Web.UI.Pageã
+à
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csN N(=
+%1"__concat*
+btnRegister_Click Event*
+<br>∞
+≠
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csN N(>
+
+%2void"%System.Web.HttpResponse.Write(string)*
+
+%0System.Web.HttpResponse*
+
+%1êç
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csP& P(9
+%3System.Text.StringBuilder"System.Text.StringBuilderÆ
+´
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csP* P(7
+
+%4void")System.Text.StringBuilder.StringBuilder()*!
+
+%3System.Text.StringBuilder•
+¢
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csP P(9&
+	sbChoicesSystem.Text.StringBuilder"__id*!
+
+%3System.Text.StringBuilder“
+œ
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csQ Q((
+%5"System.Web.UI.WebControls.CheckBox"__id*L*J
+VirtualLab.Employee"1
+chkGraduate"System.Web.UI.WebControls.CheckBox…∆
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csQ Q(#
+
+%6bool".System.Web.UI.WebControls.CheckBox.Checked.get**
+(
+%5"System.Web.UI.WebControls.CheckBox2Checked.get*
+1
+2*Ÿ
+1O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csR R(5“
+œ
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csR% R(0(
+%7"System.Web.UI.WebControls.CheckBox"__id*L*J
+VirtualLab.Employee"1
+chkGraduate"System.Web.UI.WebControls.CheckBox≈¬
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csR% R(5
+%8string"+System.Web.UI.WebControls.CheckBox.Text.get**
+(
+%7"System.Web.UI.WebControls.CheckBox2Text.getÉ
+Ä
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csR R(5
+%9string"__concat*
+,*
+
+%8string⁄
+◊
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csR R(6 
+%10System.Text.StringBuilder"(System.Text.StringBuilder.Append(string)*(
+&
+	sbChoicesSystem.Text.StringBuilder*
+
+%9string*
+2*Ñ
+2O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csT T('◊
+‘
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csT T()
+%11"System.Web.UI.WebControls.CheckBox"__id*P*N
+VirtualLab.Employee"5
+chkPostGraduate"System.Web.UI.WebControls.CheckBoxÀ»
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csT T('
+%12bool".System.Web.UI.WebControls.CheckBox.Checked.get*+
+)
+%11"System.Web.UI.WebControls.CheckBox2Checked.get*
+3
+4*„
+3O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csU U(9◊
+‘
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csU% U(4)
+%13"System.Web.UI.WebControls.CheckBox"__id*P*N
+VirtualLab.Employee"5
+chkPostGraduate"System.Web.UI.WebControls.CheckBox«ƒ
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csU% U(9
+%14string"+System.Web.UI.WebControls.CheckBox.Text.get*+
+)
+%13"System.Web.UI.WebControls.CheckBox2Text.getÖ
+Ç
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csU U(9
+%15string"__concat*
+,*
+
+%14string€
+ÿ
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csU U(: 
+%16System.Text.StringBuilder"(System.Text.StringBuilder.Append(string)*(
+&
+	sbChoicesSystem.Text.StringBuilder*
+
+%15string*
+4*Å
+4O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csV V($‘
+—
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csV V()
+%17"System.Web.UI.WebControls.CheckBox"__id*M*K
+VirtualLab.Employee"2
+chkDoctorate"System.Web.UI.WebControls.CheckBoxÀ»
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csV V($
+%18bool".System.Web.UI.WebControls.CheckBox.Checked.get*+
+)
+%17"System.Web.UI.WebControls.CheckBox2Checked.get*
+5
+6*‡
+5O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csW W(6‘
+—
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csW% W(1)
+%19"System.Web.UI.WebControls.CheckBox"__id*M*K
+VirtualLab.Employee"2
+chkDoctorate"System.Web.UI.WebControls.CheckBox«ƒ
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csW% W(6
+%20string"+System.Web.UI.WebControls.CheckBox.Text.get*+
+)
+%19"System.Web.UI.WebControls.CheckBox2Text.getÖ
+Ç
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csW W(6
+%21string"__concat*
+,*
+
+%20string€
+ÿ
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csW W(7 
+%22System.Text.StringBuilder"(System.Text.StringBuilder.Append(string)*(
+&
+	sbChoicesSystem.Text.StringBuilder*
+
+%21string*
+6*à
+6O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csX X(8≠
+™
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csX X(
+%23System.Web.HttpResponse"System.Web.UI.Page.Response.get*
+System.Web.UI.Page≥
+∞
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csX X(/
+%24string"$System.Text.StringBuilder.ToString()*(
+&
+	sbChoicesSystem.Text.StringBuilderà
+Ö
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csX X(8
+%25string"__concat*
+
+%24string*
+<br>ª
+∏
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csX X(9
+%26void"%System.Web.HttpResponse.Write(string)* 
+
+%23System.Web.HttpResponse*
+
+%25string*
+7*º
+7O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csY	 Y(	"f
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csY Y(	
+implicit return:
+senderobject:
+eSystem.EventArgsB
+VirtualLab.Employee

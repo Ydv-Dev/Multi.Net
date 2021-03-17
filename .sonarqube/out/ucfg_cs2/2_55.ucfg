@@ -1,0 +1,68 @@
+
+=AspNet_Lab.ViewState1.Button1_Click(object, System.EventArgs)Q
+GC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\ViewState1.aspx.cs ($"0*Ð
+0Q
+GC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\ViewState1.aspx.cs  "(,ÃÀ
+Q
+GC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\ViewState1.aspx.cs #  (,
+%0System.Web.UI.StateBag"#System.Web.UI.Control.ViewState.get*
+System.Web.UI.Control2ViewState.get™
+–
+Q
+GC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\ViewState1.aspx.cs #  (5
+%1object"__mapGet*
+
+%0System.Web.UI.StateBag*	
+vsNumq
+o
+Q
+GC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\ViewState1.aspx.cs   (5
+%2"__id*
+
+%1objectw
+u
+Q
+GC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\ViewState1.aspx.cs   (9
+clicksCountint"__id*
+""Ï
+Ì
+Q
+GC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\ViewState1.aspx.cs! !('
+%3!System.Web.UI.WebControls.TextBox"__id*H*F
+AspNet_Lab.ViewState1"+
+txtNum!System.Web.UI.WebControls.TextBoxŠ
+‡
+Q
+GC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\ViewState1.aspx.cs! !(0
+%4string"int.ToString()*
+
+clicksCountintÕÒ
+Q
+GC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\ViewState1.aspx.cs! !(0
+%5string"*System.Web.UI.WebControls.TextBox.Text.set*)
+'
+%3!System.Web.UI.WebControls.TextBox*
+
+%4string2Text.setÃÀ
+Q
+GC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\ViewState1.aspx.cs" "(
+%6System.Web.UI.StateBag"#System.Web.UI.Control.ViewState.get*
+System.Web.UI.Control2ViewState.get§
+¤
+Q
+GC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\ViewState1.aspx.cs" "(,
+%7"__mapSet*
+
+%6System.Web.UI.StateBag*	
+vsNum*
+
+clicksCountint*
+1*À
+1Q
+GC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\ViewState1.aspx.cs$	 $(	"h
+Q
+GC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\ViewState1.aspx.cs$ $(	
+implicit return:
+senderobject:
+eSystem.EventArgsB
+AspNet_Lab.ViewState1

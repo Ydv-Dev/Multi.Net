@@ -1,0 +1,52 @@
+
+IAspNet_Lab.RouteConfig.RegisterRoutes(System.Web.Routing.RouteCollection)W
+MC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\RouteConfig.cs ()"0*Ê
+0W
+MC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\RouteConfig.cs (.ÈÅ
+W
+MC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\RouteConfig.cs (47
+%01Microsoft.AspNet.FriendlyUrls.FriendlyUrlSettings"1Microsoft.AspNet.FriendlyUrls.FriendlyUrlSettingsì
+é
+W
+MC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\RouteConfig.cs (2
+
+%1void"GMicrosoft.AspNet.FriendlyUrls.FriendlyUrlSettings.FriendlyUrlSettings()*9
+7
+%01Microsoft.AspNet.FriendlyUrls.FriendlyUrlSettingsÜ
+Ù
+W
+MC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\RouteConfig.cs (4=
+settings1Microsoft.AspNet.FriendlyUrls.FriendlyUrlSettings"__id*9
+7
+%01Microsoft.AspNet.FriendlyUrls.FriendlyUrlSettingso
+m
+W
+MC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\RouteConfig.cs( (>
+%2"__id*
+""Ÿ
+œ
+W
+MC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\RouteConfig.cs (>0
+%3*Microsoft.AspNet.FriendlyUrls.RedirectMode"FMicrosoft.AspNet.FriendlyUrls.FriendlyUrlSettings.AutoRedirectMode.set*?
+=
+settings1Microsoft.AspNet.FriendlyUrls.FriendlyUrlSettings*
+
+%2º
+·
+W
+MC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\RouteConfig.cs (/
+
+%4void"¡Microsoft.AspNet.FriendlyUrls.RouteCollectionExtensions.EnableFriendlyUrls(System.Web.Routing.RouteCollection, Microsoft.AspNet.FriendlyUrls.FriendlyUrlSettings)*;"9
+7Microsoft.AspNet.FriendlyUrls.RouteCollectionExtensions*.
+,
+routes"System.Web.Routing.RouteCollection*?
+=
+settings1Microsoft.AspNet.FriendlyUrls.FriendlyUrlSettings*
+1*Ì
+1W
+MC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\RouteConfig.cs	 (	"n
+W
+MC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\RouteConfig.cs (	
+implicit return:,
+routes"System.Web.Routing.RouteCollectionB"
+AspNet_Lab.RouteConfig

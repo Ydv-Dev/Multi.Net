@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>SampleCalcServiceApp</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>6f151fa4-7f56-4e20-a1ef-387803aa933a</ProjectGuid>
+  <FullPath>C:\workspace\Ydv-Dev\Multi.Net\CalcService\SampleCalcServiceApp\SampleCalcServiceApp.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\workspace\Ydv-Dev\Multi.Net\.sonarqube\conf\1\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\workspace\Ydv-Dev\Multi.Net\CalcService\SampleCalcServiceApp\bin\SampleCalcServiceApp.dll.RoslynCA.json|C:\workspace\Ydv-Dev\Multi.Net\CalcService\SampleCalcServiceApp\bin\SampleCalcServiceApp.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\workspace\Ydv-Dev\Multi.Net\.sonarqube\out\1</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+</ProjectInfo>

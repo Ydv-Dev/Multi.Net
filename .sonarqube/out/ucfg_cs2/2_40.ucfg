@@ -1,0 +1,34 @@
+
+AAspNet_Lab.EmployeeForm.lnkDelete_Click(object, System.EventArgs)S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.csE E(&"0*◊
+0S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.csG G(:∞
+≠
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.csG G(
+%0System.Web.HttpResponse"System.Web.UI.Page.Response.get*
+System.Web.UI.Pageç
+ä
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.csG G(:
+%1"__concat*
+lnkDelete_Click Event*
+<br>¥
+±
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.csG G(;
+
+%2void"%System.Web.HttpResponse.Write(string)*
+
+%0System.Web.HttpResponse*
+
+%1*
+1*ƒ
+1S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.csH	 H(	"j
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.csH H(	
+implicit return:
+senderobject:
+eSystem.EventArgsB
+AspNet_Lab.EmployeeForm

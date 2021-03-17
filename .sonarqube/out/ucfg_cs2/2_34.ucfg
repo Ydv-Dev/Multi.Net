@@ -1,0 +1,209 @@
+
+CAspNet_Lab.EmployeeForm.btnRegister_Click(object, System.EventArgs)S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs+ +(("0*Å
+0S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs- 0(#∞
+≠
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs- -(
+%0System.Web.HttpResponse"System.Web.UI.Page.Response.get*
+System.Web.UI.Pageè
+å
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs- -(=
+%1"__concat*
+btnRegister_Click Event*
+<br>¥
+±
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs- -(>
+
+%2void"%System.Web.HttpResponse.Write(string)*
+
+%0System.Web.HttpResponse*
+
+%1îë
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs/& /(9
+%3System.Text.StringBuilder"System.Text.StringBuilder≤
+Ø
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs/* /(7
+
+%4void")System.Text.StringBuilder.StringBuilder()*!
+
+%3System.Text.StringBuilder©
+¶
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs/ /(9&
+	sbChoicesSystem.Text.StringBuilder"__id*!
+
+%3System.Text.StringBuilder⁄
+◊
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs0 0((
+%5"System.Web.UI.WebControls.CheckBox"__id*P*N
+AspNet_Lab.EmployeeForm"1
+chkGraduate"System.Web.UI.WebControls.CheckBoxÕ 
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs0 0(#
+
+%6bool".System.Web.UI.WebControls.CheckBox.Checked.get**
+(
+%5"System.Web.UI.WebControls.CheckBox2Checked.get*
+1
+2*Ò
+1S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs1 1(5⁄
+◊
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs1% 1(0(
+%7"System.Web.UI.WebControls.CheckBox"__id*P*N
+AspNet_Lab.EmployeeForm"1
+chkGraduate"System.Web.UI.WebControls.CheckBox…∆
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs1% 1(5
+%8string"+System.Web.UI.WebControls.CheckBox.Text.get**
+(
+%7"System.Web.UI.WebControls.CheckBox2Text.getá
+Ñ
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs1 1(5
+%9string"__concat*
+,*
+
+%8stringﬁ
+€
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs1 1(6 
+%10System.Text.StringBuilder"(System.Text.StringBuilder.Append(string)*(
+&
+	sbChoicesSystem.Text.StringBuilder*
+
+%9string*
+2*î
+2S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs3 3('ﬂ
+‹
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs3 3()
+%11"System.Web.UI.WebControls.CheckBox"__id*T*R
+AspNet_Lab.EmployeeForm"5
+chkPostGraduate"System.Web.UI.WebControls.CheckBoxœÃ
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs3 3('
+%12bool".System.Web.UI.WebControls.CheckBox.Checked.get*+
+)
+%11"System.Web.UI.WebControls.CheckBox2Checked.get*
+3
+4*˚
+3S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs4 4(9ﬂ
+‹
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs4% 4(4)
+%13"System.Web.UI.WebControls.CheckBox"__id*T*R
+AspNet_Lab.EmployeeForm"5
+chkPostGraduate"System.Web.UI.WebControls.CheckBoxÀ»
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs4% 4(9
+%14string"+System.Web.UI.WebControls.CheckBox.Text.get*+
+)
+%13"System.Web.UI.WebControls.CheckBox2Text.getâ
+Ü
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs4 4(9
+%15string"__concat*
+,*
+
+%14stringﬂ
+‹
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs4 4(: 
+%16System.Text.StringBuilder"(System.Text.StringBuilder.Append(string)*(
+&
+	sbChoicesSystem.Text.StringBuilder*
+
+%15string*
+4*ë
+4S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs5 5($‹
+Ÿ
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs5 5()
+%17"System.Web.UI.WebControls.CheckBox"__id*Q*O
+AspNet_Lab.EmployeeForm"2
+chkDoctorate"System.Web.UI.WebControls.CheckBoxœÃ
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs5 5($
+%18bool".System.Web.UI.WebControls.CheckBox.Checked.get*+
+)
+%17"System.Web.UI.WebControls.CheckBox2Checked.get*
+5
+6*¯
+5S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs6 6(6‹
+Ÿ
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs6% 6(1)
+%19"System.Web.UI.WebControls.CheckBox"__id*Q*O
+AspNet_Lab.EmployeeForm"2
+chkDoctorate"System.Web.UI.WebControls.CheckBoxÀ»
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs6% 6(6
+%20string"+System.Web.UI.WebControls.CheckBox.Text.get*+
+)
+%19"System.Web.UI.WebControls.CheckBox2Text.getâ
+Ü
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs6 6(6
+%21string"__concat*
+,*
+
+%20stringﬂ
+‹
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs6 6(7 
+%22System.Text.StringBuilder"(System.Text.StringBuilder.Append(string)*(
+&
+	sbChoicesSystem.Text.StringBuilder*
+
+%21string*
+6*ú
+6S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs7 7(8±
+Æ
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs7 7(
+%23System.Web.HttpResponse"System.Web.UI.Page.Response.get*
+System.Web.UI.Page∑
+¥
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs7 7(/
+%24string"$System.Text.StringBuilder.ToString()*(
+&
+	sbChoicesSystem.Text.StringBuilderå
+â
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs7 7(8
+%25string"__concat*
+
+%24string*
+<br>ø
+º
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs7 7(9
+%26void"%System.Web.HttpResponse.Write(string)* 
+
+%23System.Web.HttpResponse*
+
+%25string*
+7*ƒ
+7S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs8	 8(	"j
+S
+IC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\EmployeeForm.aspx.cs8 8(	
+implicit return:
+senderobject:
+eSystem.EventArgsB
+AspNet_Lab.EmployeeForm

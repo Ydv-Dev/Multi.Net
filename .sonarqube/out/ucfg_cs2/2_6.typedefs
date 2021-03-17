@@ -1,0 +1,9 @@
+°
+AspNet_Lab.EmployeeFormSystem.Web.UI.PageSystem.Web.UI.TemplateControlSystem.Web.UI.Controlobjectb
+#Page_Load(object, System.EventArgs);AspNet_Lab.EmployeeForm.Page_Load(object, System.EventArgs)r
++btnRegister_Click(object, System.EventArgs)CAspNet_Lab.EmployeeForm.btnRegister_Click(object, System.EventArgs)ˆ
+6drpCity_SelectedIndexChanged(object, System.EventArgs)NAspNet_Lab.EmployeeForm.drpCity_SelectedIndexChanged(object, System.EventArgs)Œ
+8rdoGender_SelectedIndexChanged(object, System.EventArgs)PAspNet_Lab.EmployeeForm.rdoGender_SelectedIndexChanged(object, System.EventArgs)n
+)lnkDelete_Click(object, System.EventArgs)AAspNet_Lab.EmployeeForm.lnkDelete_Click(object, System.EventArgs)¦
+ElnkDelete_Command(object, System.Web.UI.WebControls.CommandEventArgs)]AspNet_Lab.EmployeeForm.lnkDelete_Command(object, System.Web.UI.WebControls.CommandEventArgs)8
+EmployeeForm()&AspNet_Lab.EmployeeForm.EmployeeForm()

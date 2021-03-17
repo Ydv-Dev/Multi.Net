@@ -1,0 +1,11 @@
+Ñ
+VirtualLab.EmployeeSystem.Web.UI.PageSystem.Web.UI.TemplateControlSystem.Web.UI.Controlobject^
+#Page_Load(object, System.EventArgs)7VirtualLab.Employee.Page_Load(object, System.EventArgs)Æ
+WValidateEmployees(System.Collections.Generic.List<VirtualLab.BusinessObjects.Employee>)kVirtualLab.Employee.ValidateEmployees(System.Collections.Generic.List<VirtualLab.BusinessObjects.Employee>)n
++btnRegister_Click(object, System.EventArgs)?VirtualLab.Employee.btnRegister_Click(object, System.EventArgs)„
+6drpCity_SelectedIndexChanged(object, System.EventArgs)JVirtualLab.Employee.drpCity_SelectedIndexChanged(object, System.EventArgs)ˆ
+8rdoGender_SelectedIndexChanged(object, System.EventArgs)LVirtualLab.Employee.rdoGender_SelectedIndexChanged(object, System.EventArgs)j
+)lnkDelete_Click(object, System.EventArgs)=VirtualLab.Employee.lnkDelete_Click(object, System.EventArgs)¢
+ElnkDelete_Command(object, System.Web.UI.WebControls.CommandEventArgs)YVirtualLab.Employee.lnkDelete_Command(object, System.Web.UI.WebControls.CommandEventArgs),
+
+Employee()VirtualLab.Employee.Employee()

@@ -1,0 +1,101 @@
+
+QAspNet_Lab.BundleConfig.RegisterBundles(System.Web.Optimization.BundleCollection)X
+NC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\BundleConfig.cs (*"0*¤
+0X
+NC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\BundleConfig.cs #(3¯¬
+X
+NC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\BundleConfig.cs (@*
+%0$System.Web.Optimization.ScriptBundle"$System.Web.Optimization.ScriptBundleì
+é
+X
+NC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\BundleConfig.cs ((
+
+%1void"9System.Web.Optimization.ScriptBundle.ScriptBundle(string)*,
+*
+%0$System.Web.Optimization.ScriptBundle*
+~/bundles/WebFormsJs°­
+X
+NC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\BundleConfig.cs (=$
+%2System.Web.Optimization.Bundle"7System.Web.Optimization.Bundle.Include(params string[])*,
+*
+%0$System.Web.Optimization.ScriptBundle*" 
+~/Scripts/WebForms/WebForms.js*)'
+%~/Scripts/WebForms/WebUIValidation.js*'%
+#~/Scripts/WebForms/MenuStandards.js*
+~/Scripts/WebForms/Focus.js*" 
+~/Scripts/WebForms/GridView.js*%#
+!~/Scripts/WebForms/DetailsView.js*" 
+~/Scripts/WebForms/TreeView.js*" 
+~/Scripts/WebForms/WebParts.js2Include(params string[])–
+“
+X
+NC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\BundleConfig.cs (>
+
+%3void"LSystem.Web.Optimization.BundleCollection.Add(System.Web.Optimization.Bundle)*5
+3
+bundles(System.Web.Optimization.BundleCollection*&
+$
+%2System.Web.Optimization.Bundle¯¬
+X
+NC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\BundleConfig.cs (>*
+%4$System.Web.Optimization.ScriptBundle"$System.Web.Optimization.ScriptBundleê
+ç
+X
+NC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\BundleConfig.cs ((
+
+%5void"9System.Web.Optimization.ScriptBundle.ScriptBundle(string)*,
+*
+%4$System.Web.Optimization.ScriptBundle*
+~/bundles/MsAjaxJsäá
+X
+NC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\BundleConfig.cs (I$
+%6System.Web.Optimization.Bundle"7System.Web.Optimization.Bundle.Include(params string[])*,
+*
+%4$System.Web.Optimization.ScriptBundle*.,
+*~/Scripts/WebForms/MsAjax/MicrosoftAjax.js*A?
+=~/Scripts/WebForms/MsAjax/MicrosoftAjaxApplicationServices.js*31
+/~/Scripts/WebForms/MsAjax/MicrosoftAjaxTimer.js*64
+2~/Scripts/WebForms/MsAjax/MicrosoftAjaxWebForms.js2Include(params string[])–
+“
+X
+NC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\BundleConfig.cs (J
+
+%7void"LSystem.Web.Optimization.BundleCollection.Add(System.Web.Optimization.Bundle)*5
+3
+bundles(System.Web.Optimization.BundleCollection*&
+$
+%6System.Web.Optimization.Bundle¯¬
+X
+NC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\BundleConfig.cs" "(?*
+%8$System.Web.Optimization.ScriptBundle"$System.Web.Optimization.ScriptBundleë
+è
+X
+NC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\BundleConfig.cs" "((
+
+%9void"9System.Web.Optimization.ScriptBundle.ScriptBundle(string)*,
+*
+%8$System.Web.Optimization.ScriptBundle*
+~/bundles/modernizrøõ
+X
+NC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\BundleConfig.cs" #(4%
+%10System.Web.Optimization.Bundle"_System.Web.Optimization.Bundle.Include(string, params System.Web.Optimization.IItemTransform[])*,
+*
+%8$System.Web.Optimization.ScriptBundle*
+~/Scripts/modernizr-**
+""2@Include(string, params System.Web.Optimization.IItemTransform[])˜
+•
+X
+NC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\BundleConfig.cs" #(5
+%11void"LSystem.Web.Optimization.BundleCollection.Add(System.Web.Optimization.Bundle)*5
+3
+bundles(System.Web.Optimization.BundleCollection*'
+%
+%10System.Web.Optimization.Bundle*
+1*Î
+1X
+NC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\BundleConfig.cs$	 $(	"o
+X
+NC:\workspace\Ydv-Dev\Multi.Net\AspNet_Lab\AspNet_Lab\App_Start\BundleConfig.cs$ $(	
+implicit return:3
+bundles(System.Web.Optimization.BundleCollectionB"
+AspNet_Lab.BundleConfig

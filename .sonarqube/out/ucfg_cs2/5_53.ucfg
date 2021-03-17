@@ -1,0 +1,127 @@
+
+kVirtualLab.Employee.ValidateEmployees(System.Collections.Generic.List<VirtualLab.BusinessObjects.Employee>)O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.cs+ +(&"0*Ì
+0O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.cs- -(q
+o
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.cs- -(
+resultbool"__id*
+""*
+1*¨
+1O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.cs0 0( É
+Æ
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.cs0 0( 
+
+%0bool""object.operator !=(object, object)*
+"
+object*/
+-
+emplist"System.Collections.Generic.List<T>*
+""*
+2
+3*Y
+2O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.cs2H 2(O*
+4*\
+4O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csJ	 J(	*
+5
+6*¥
+5O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.cs5 5('Æ
+Ã
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.cs5 5('
+
+%1bool""object.operator !=(object, object)*
+"
+object*,
+*
+emp#VirtualLab.BusinessObjects.Employee*
+""*
+7
+4*­
+
+7O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.cs7 <(/Ï
+Ì
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.cs7 7(4
+%2string"1VirtualLab.BusinessObjects.Employee.FirstName.set*,
+*
+emp#VirtualLab.BusinessObjects.Employee*
+
+SubhasÏ
+Ì
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.cs8 8(4
+%3string"0VirtualLab.BusinessObjects.Employee.LastName.set*,
+*
+emp#VirtualLab.BusinessObjects.Employee*	
+LuchmunÍ
+Ê
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.cs9 9(2
+%4string"/VirtualLab.BusinessObjects.Employee.Address.set*,
+*
+emp#VirtualLab.BusinessObjects.Employee*
+
+MiltonÍ
+Ê
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.cs: :(2
+%5string"/VirtualLab.BusinessObjects.Employee.Country.set*,
+*
+emp#VirtualLab.BusinessObjects.Employee*
+
+CanadaÀ
+½
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.cs; ;((	
+%6int"+VirtualLab.BusinessObjects.Employee.Age.set*,
+*
+emp#VirtualLab.BusinessObjects.Employee*2-Ê
+Ç
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.cs< <(/
+%7string".VirtualLab.BusinessObjects.Employee.Gender.set*,
+*
+emp#VirtualLab.BusinessObjects.Employee*
+Male*
+4*Ì
+6O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.cs@ @(!q
+o
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.cs@ @(!
+resultbool"__id*
+""*
+3*\
+3O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csJ	 J(	*
+8
+9*Ì
+8O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csG G(q
+o
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csG G(
+resultbool"__id*
+""*
+9*¹
+9O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csI I("c
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csI I(
+
+resultbool*½
+10O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csJ	 J(	"f
+O
+EC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\Employee.aspx.csJ J(	
+implicit return:-
+emplist"System.Collections.Generic.List<T>B
+VirtualLab.Employee

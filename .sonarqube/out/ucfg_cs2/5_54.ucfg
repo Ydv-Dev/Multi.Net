@@ -1,0 +1,238 @@
+
+;VirtualLab.ViewSwitcher.Page_Load(object, System.EventArgs)S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs ( "0*ˇ
+0S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs ("¡æ
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs[ (b
+%0System.Web.HttpContext"!System.Web.UI.Control.Context.get*
+System.Web.UI.Control2Context.getúô
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.csD (c#
+%1System.Web.HttpContextWrapper"System.Web.HttpContextWrapperı
+Ú
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.csH (Z
+
+%2void"HSystem.Web.HttpContextWrapper.HttpContextWrapper(System.Web.HttpContext)*%
+#
+%1System.Web.HttpContextWrapper*
+
+%0System.Web.HttpContext¬
+ø
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs (d
+
+%3bool"lMicrosoft.AspNet.FriendlyUrls.Resolvers.WebFormsFriendlyUrlResolver.IsMobileView(System.Web.HttpContextBase)*G"E
+CMicrosoft.AspNet.FriendlyUrls.Resolvers.WebFormsFriendlyUrlResolver*%
+#
+%1System.Web.HttpContextWrapper}
+{
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs (d
+isMobilebool"__id*
+
+
+%3bool*
+1
+2*√
+1S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs% (-o
+m
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs% (-
+%5"__id*
+
+Mobiles
+q
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs% (-
+%4string"__id*
+
+%5*
+3*ƒ
+2S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs0 (9p
+n
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs0 (9
+%6"__id*	
+Desktops
+q
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs0 (9
+%4string"__id*
+
+%6*
+3*ü
+3S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs ($º
+π
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs (9
+%7string"'VirtualLab.ViewSwitcher.CurrentView.set*
+VirtualLab.ViewSwitcher*
+
+%4string*
+4
+5*ƒ
+4S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs' (0p
+n
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs' (0
+%9"__id*	
+Desktops
+q
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs' (0
+%8string"__id*
+
+%9*
+6*≈
+5S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs3 (;p
+n
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs3 (;
+%10"__id*
+
+Mobilet
+r
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs3 (;
+%8string"__id*
+
+%10*
+6*ˇ	
+6S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs  ('ø
+º
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs (;
+%11string")VirtualLab.ViewSwitcher.AlternateView.set*
+VirtualLab.ViewSwitcher*
+
+%8string°
+û
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs (F
+switchViewRouteNamestring"__id*" 
+AspNet.FriendlyUrls.SwitchView–
+Õ
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs" (3)
+%12"System.Web.Routing.RouteCollection"(System.Web.Routing.RouteTable.Routes.get*!"
+System.Web.Routing.RouteTable◊
+‘
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs" (H#
+%13System.Web.Routing.RouteBase"
+__arrayGet*+
+)
+%12"System.Web.Routing.RouteCollection*
+
+switchViewRouteNamestring∂
+≥
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs (H/
+switchViewRouteSystem.Web.Routing.RouteBase"__id*%
+#
+%13System.Web.Routing.RouteBase–
+Õ
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs   ('
+%14bool""object.operator ==(object, object)*
+"
+object*1
+/
+switchViewRouteSystem.Web.Routing.RouteBase*
+""*
+7
+8*Ù
+7S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs# #($∫∑
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs# #($
+%15bool"!System.Web.UI.Control.Visible.set*
+VirtualLab.ViewSwitcher*
+""2Visible.set"]
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs$ $(
+""*à
+8S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs& ((Ø
+¨
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs&D &(Q
+%16string")VirtualLab.ViewSwitcher.AlternateView.get*
+VirtualLab.ViewSwitcherﬁ
+€
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs& &(w
+%17string"1System.Web.UI.Control.GetRouteUrl(string, object)*
+System.Web.UI.Control*
+
+switchViewRouteNamestring*
+""}
+{
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs& &(w
+urlstring"__id*
+
+%17stringΩ
+∫
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs'9 '(@
+%18System.Web.HttpRequest"%System.Web.UI.UserControl.Request.get*
+System.Web.UI.UserControl´
+®
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs'9 '(G
+%19string"!System.Web.HttpRequest.RawUrl.get*
+
+%18System.Web.HttpRequestæ
+ª
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs'# '(H
+%20string"(System.Web.HttpUtility.UrlEncode(string)*"
+System.Web.HttpUtility*
+
+%19stringì
+ê
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs' '(H
+%21string"__concat*
+?ReturnUrl=*
+
+%20stringì
+ê
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs' '(H
+%22string"__concat*
+
+urlstring*
+
+%21string}
+{
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs' '(H
+urlstring"__id*
+
+%22stringº
+π
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs( ((
+%23string"%VirtualLab.ViewSwitcher.SwitchUrl.set*
+VirtualLab.ViewSwitcher*
+
+urlstring*
+9*ƒ
+9S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs)	 )(	"j
+S
+IC:\workspace\Ydv-Dev\Multi.Net\VirtualLab\VirtualLab\ViewSwitcher.ascx.cs) )(	
+implicit return:
+senderobject:
+eSystem.EventArgsB
+VirtualLab.ViewSwitcher
